@@ -9,4 +9,4 @@ Validation Inventory File: This version includes additional validations.
 As well as the original task requirements.
 
 >[!NOTE]
->I have added extra validations for when a book is found by name in the Inventory but is listed with a quantity of Zero **(Inventory Update Mistake)**
+>I have added extra validations for when a book is found by name in the Inventory but is listed with a quantity of Zero **(Inventory Update Mistake)** at the start of the program before Querying or Purchasing a book.
