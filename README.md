@@ -5,8 +5,7 @@ The Book Library project is a simulation of a Book Library System, essentially m
 - **Query a Book**: Enter the book’s name to retrieve its details.
 - **Buy a Book**: Enter the book’s name and the quantity to purchase provided that the library has the needed book in sufficient quantity.
 - **Exit**: Exit the program.
-![GIF](https://github.com/yehiarasheed/Book-Library/assets/157399068/db49424e-e782-4ccc-9704-11960840450d)
-
+<img src = "https://github.com/yehiarasheed/Book-Library/assets/157399068/db49424e-e782-4ccc-9704-11960840450d" width = "1920" height = "1080" />
 You’ll find two versions of the Books Inventory in the `Additional Files` folder:
 
 Original Inventory File: This is the initial inventory.
