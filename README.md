@@ -12,6 +12,9 @@ Original Inventory File: This is the initial inventory.
 Validation Inventory File: This version includes additional validations.
 As well as the original task requirements.
 
+> [!NOTE]
+> Ensure to change the Excel file paths in the project to their respective relative paths on your machine.
+
 >[!NOTE]
 >Extra validations were added for when a book is found by name in the Inventory but is listed with a quantity of Zero **(Inventory Update Mistake)** at the start of the program before Querying or Purchasing a book.
 
@@ -22,7 +25,7 @@ As well as the original task requirements.
    git clone https://github.com/yehiarasheed/Book-Library.git
    cd Book-Library
    ```
-   Alternatively, Clone the Repository in UiPath Studio:
+**Alternatively, Clone the Repository in UiPath Studio:**
    - Open UiPath Studio.
    - Go to the `Team` tab.
    - Click on `Clone Repository`.
@@ -35,7 +38,10 @@ As well as the original task requirements.
    - Launch UiPath Studio.
    - Click on `Open` in the Start tab.
    - Navigate to the cloned repository folder and open the `.xaml` file.
-
+     
+4. **Install Microsoft Excel:**
+   Ensure Microsoft Excel is installed on your computer, as it is required for handling Excel files in this project.
+   
 ## Dependencies
 
 This project requires the following dependencies:
