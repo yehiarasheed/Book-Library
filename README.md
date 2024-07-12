@@ -22,7 +22,12 @@ As well as the original task requirements.
    git clone https://github.com/yehiarasheed/Book-Library.git
    cd Book-Library
    ```
-
+   Alternatively, Clone the Repository in UiPath Studio:
+   - Open UiPath Studio.
+   - Go to the `Team` tab.
+   - Click on `Clone Repository`.
+   - Enter the repository URL: https://github.com/yehiarasheed/Book-Library.git.
+   - Select the destination folder and click `Open` using your Authentication method of choice.
 2. **Install UiPath Studio:**
    Download and install UiPath Studio from the [official UiPath website](https://www.uipath.com).
 
