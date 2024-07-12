@@ -12,7 +12,7 @@ Original Inventory File: This is the initial inventory.
 Validation Inventory File: This version includes additional validations.
 As well as the original task requirements.
 
-> [!NOTE]
+> [!IMPORTANT] 
 > Ensure to change the Excel file paths in the project to their respective relative paths on your machine.
 
 >[!NOTE]
