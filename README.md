@@ -6,14 +6,13 @@ The Book Library project is a simulation of a Book Library System, essentially m
 - **Buy a Book**: Enter the book’s name and the quantity to purchase provided that the library has the needed book in sufficient quantity.
 - **Exit**: Exit the program.
 <img src = "https://github.com/yehiarasheed/Book-Library/assets/157399068/db49424e-e782-4ccc-9704-11960840450d" />
-You’ll find two versions of the Books Inventory in the `Additional Files` folder:
 
-Original Inventory File: This is the initial inventory.
-Validation Inventory File: This version includes additional validations.
-As well as the original task requirements.
 
 > [!IMPORTANT] 
-> Ensure to change the Excel file paths in the project to their respective relative paths on your machine.
+> All the File Paths used in the project are now relative paths so that any user could clone the project and use it right out of the box. In the `Additional Files` folder, You’ll find two versions of the Books Inventory in the `Inputs` folder:-
+**Original Inventory File** which is the initial inventory which is chosen by the program by default.
+**Validation Inventory File** which version includes additional validations that **you have to manually choose in the read range activity if you want to test**.
+As well as the original task requirements in the `Task Information` Folder.
 
 >[!NOTE]
 >Extra validations were added for when a book is found by name in the Inventory but is listed with a quantity of Zero **(Inventory Update Mistake)** at the start of the program before Querying or Purchasing a book.
